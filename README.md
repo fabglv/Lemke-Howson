@@ -1,5 +1,5 @@
 # Lemke-Howson
-An implementation the Lemke-Howson Algorithm, a method for finding a Nash Equilibrium in two-player, non-cooperative games.
+An implementation the Lemke-Howson Algorithm, a method for finding a Nash Equilibrium in two-player, non-degenerate games.
 
 The Lemke-Howson algorithm and its implementation through integer pivoting are described in sections 3.4 and 3.5 of [1]. The modifications described in section 3.6 to handle degenerate games have not been implemented.
 
